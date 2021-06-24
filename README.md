@@ -1,0 +1,2 @@
+# StudentDotNetCoreApp
+Student App 
